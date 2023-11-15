@@ -1,1 +1,1 @@
-# Clipit
+# Text Editor Starter Code
